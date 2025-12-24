@@ -140,7 +140,7 @@ const App: React.FC = () => {
 
               <div className="font-sans text-gray-700 leading-relaxed text-center min-h-[140px] md:min-h-[140px] flex items-center justify-center">
                 <Typewriter 
-                  text={` Kita bertemu di dunia pixel, tapi rasa nyaman yang kamu kasih...\nitu hal paling nyata yang pernah aku rasain.\n\nDari sekadar main bareng, jadi alasan aku senyum tiap hari.`}
+                  text={` Kita bertemu di dunia roblox, tapi rasa nyaman yang kamu kasih...\nitu hal paling nyata yang pernah aku rasain.\n\nDari sekadar main bareng, jadi alasan aku senyum tiap hari.`}
                   speed={40}
                   className="text-base md:text-lg"
                 />
